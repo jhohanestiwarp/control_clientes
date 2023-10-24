@@ -1,0 +1,2 @@
+admin:123 tiene todos los permisos
+user:123 solo tiene permiso para observar
